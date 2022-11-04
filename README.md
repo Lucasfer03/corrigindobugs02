@@ -1,3 +1,3 @@
 # corrigindobugs02
 
--foi um projeto da rockeatseat para corrigir os bugs do projeto 01
+-foi um projeto da rockeatseat no qual foi usado html e css ja entregando o exercicio final 
